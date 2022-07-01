@@ -33,7 +33,7 @@ module.exports = {
 };
 
 ```
-![VS Code](https://github.com/Sequoia-Theme/daisy-ui/blob/main/midnight.png?raw=true)
+![VS Code](https://github.com/Serendipity-Theme/daisy-ui/blob/main/midnight.png?raw=true)
 
 Sunset
 ```
@@ -59,7 +59,7 @@ module.exports = {
   //...
 };
 ```
-![VS Code](https://github.com/Sequoia-Theme/daisy-ui/blob/main/sunset.png?raw=true)
+![VS Code](https://github.com/Serendipity-Theme/daisy-ui/blob/main/sunset.png?raw=true)
 
 Morning
 ```
@@ -85,7 +85,7 @@ module.exports = {
   //...
 }
 ```
-![VS Code](https://github.com/Sequoia-Theme/daisy-ui/blob/main/morning.png?raw=true)
+![VS Code](https://github.com/Serendipity-Theme/daisy-ui/blob/main/morning.png?raw=true)
 
 
 Available themes:

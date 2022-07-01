@@ -88,17 +88,5 @@ module.exports = {
 ![VS Code](https://github.com/Serendipity-Theme/daisy-ui/blob/main/morning.png?raw=true)
 
 
-Available themes:
-
-- Moonlight
-- Monochrome
-
-# Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
-
-# Who ported the theme?
-
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
+Sequoia Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
 
